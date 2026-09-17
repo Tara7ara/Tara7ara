@@ -1,6 +1,6 @@
 ## Martí Tarrasón
 
-Estudiante de ciberseguridad. Arch Linux a diario.
+Estudiante de ciberseguridad. Vibecoder y arch a diario.
 
 ### En qué estoy ahora
 
