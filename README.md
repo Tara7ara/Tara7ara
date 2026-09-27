@@ -2,6 +2,8 @@
 
 Estudiante de ciberseguridad. Vibecoder y arch a diario.
 
+Mi web con portfolio y CV: **[tara7ara.com](https://tara7ara.com)**
+
 ### En qué estoy ahora
 
 - Ciberseguridad ofensiva y pentesting
